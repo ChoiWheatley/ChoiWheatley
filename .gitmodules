@@ -1,0 +1,4 @@
+[submodule "ChoiWheatley.github.io"]
+	path = ChoiWheatley.github.io
+	url = git@github.com:ChoiWheatley/ChoiWheatley.github.io.git
+	branch = main
