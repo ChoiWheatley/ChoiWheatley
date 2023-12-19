@@ -4,7 +4,7 @@
 - **HOW**: I can understand complex details hidden underneath vertical layers.
 - **WHAT**: I want to grow together sharing knowledges and constant debates.
 
-### VISION
+### STRENGTH
 
 I utilize knowledge management tools Obsidian and Google Keep to have a pipeline that leads to scraping, archiving, linking to related knowledge, and blog posts.
 
