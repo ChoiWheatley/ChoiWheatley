@@ -34,7 +34,7 @@ I utilize knowledge management tools Obsidian and Google Keep to have a pipeline
 
 - 2023-11-02 ~ 2023-12-16 기간동안 진행한 나만의 무기 만들기 프로젝트에서 활용한 기술들
 	- 백엔드 웹 어플리케이션 서버 프레임워크 (NodeJS) 
-		- <img src="https://nestjs.com/logo-small.ede75a6b.svg" style="height: 100px; width: 100px; aspect-ratio: 1 / 1;">
+		- <img src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" style="height: 100px; width: 100px; aspect-ratio: 1 / 1;">
 	- NestJS와 함께 실시간 통신을 구현하여 게임을 만드는 데 사용된 Web Socket 기반 라이브러리 
 		- <img src="https://socket.io/images/logo.svg" style="height: 100px; width: 100px; aspect-ratio: 1 / 1;">
 	- NestJS와 함께 호스트 유저 정보를 postgresql에 관리하고 실시간 게임 상태를 sqlite IMDB에서 관리하기 위해 사용한 라이브러리
