@@ -4,17 +4,19 @@ I have the power to bring abstract ideas into reality. We have a habit of unders
 
 ### VALUE
 
-**TRUST ASSET** matters. I know that if I don't do anything, it will be hidden, so I try to share everything I can with my team. 
+**Trust |** I used to share my tasks and artifacts with team members. I believe that building trust equity leads to better quality software.
 
-In the code **INTENT** must be contained. One Pull Request contains one Intent. I have a habit of dividing branches into just the right things and writing down the reasons for modifications in detail. 
+**Intent |** One pull request contains one Intent. I have a habit of dividing branches into just the right things and writing down the reasons for modifications in detail.
 
-**SHOW ME THE CODE**. Rather than talking loudly, I persuade with working code.
+**Show Me the Code |** Rather than talking loudly, persuade with working code.
 
 ### STRENGTH
 
-My strengths is **ENERGY**. We know that humans easily adapt to their environment, so we organize our surroundings to create a better environment for ourselves. Even though it's hard, when you meet a colleague, you greet them with energy, and that energy comes back to help you keep moving forward.
+My strengths are **ENERGY**. I know that humans can easily adapt to the environment, so I organize my surroundings to create a better environment. That energy comes back to help you keep moving forward.
 
-I'm a tool guy. I'm always interested in tools that make me more productive, so I often look for open source tools that solve everyday pain points and replace paid applications. I understand the frustrations of the Linux CLI environment, so I utilize shell shortcuts, the VIM editor, OpenSSH, diff, grep, and more to get things done quickly for complex requirements.
+I can handle my **TOOLS** well. I am always interested in tools that increase productivity, so I look for open source tools that improve my productivity and replace paid applications. Since we are well aware of the inconveniences of the Linux CLI environment, we can quickly handle complex requirements by utilizing shell shortcuts, VIM editor, OpenSSH, diff, grep, etc.
+
+---
 
 ### VISION
 
@@ -33,9 +35,11 @@ I'm a tool guy. I'm always interested in tools that make me more productive, so 
 
 ### STACK
 
-|NestJS | Socket.IO |TypeORM |Django |
+
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> |  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> | 
 |---|---|---|---|
-|<img src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" style="height: 100px; width: 100px; aspect-ratio: 1 / 1;"> | <img src="https://socket.io/images/logo.svg" style="height: 100px; width: 100px; aspect-ratio: 1 / 1;"> | <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" style="height: 100px;"> | <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" style="height:100px;"> |
+|<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> | <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"> | <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" style="height:40px;"> |<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> | 
+
 
 ![Choi Wheatley's Health Check!](https://github-readme-stats.vercel.app/api?username=ChoiWheatley&count_private=true&show_icons=true)
 
