@@ -44,3 +44,5 @@ I can handle my **TOOLS** well. I am always interested in tools that increase pr
 ![Choi Wheatley's Health Check!](https://github-readme-stats.vercel.app/api?username=ChoiWheatley&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiWheatley&hide=javascript,scss,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/87b4df50-cacd-447c-bf96-470cc0093ed7.svg)](https://wakatime.com/@87b4df50-cacd-447c-bf96-470cc0093ed7)
