@@ -40,8 +40,12 @@ I can handle my **TOOLS** well. I am always interested in tools that increase pr
 |---|---|---|---|
 |<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> | <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"> | <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" style="height:40px;"> |<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> | 
 
+### REAME-STATS
 
 ![Choi Wheatley's Health Check!](https://github-readme-stats.vercel.app/api?username=ChoiWheatley&count_private=true&show_icons=true)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ChoiWheatley/6880d935-7280-4c4d-897e-8bbb95861beb.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ChoiWheatley/a1de645d-e845-4347-9b27-f33b4bce615d.png" /></a>
+### WAKATIME
+
+| LANGUAGES | WEEKLY-ACTIVITY |
+|-----|-----|
+|<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ChoiWheatley/0ca73e34-5c12-4e02-8850-c8ad1fa257f4.png" style="height:500px" /></a> | <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ChoiWheatley/ab141b57-9e0e-41a6-84cf-9b4db0f7158b.png" style="height:500px" /></a> |
